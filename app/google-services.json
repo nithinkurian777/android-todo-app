@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524823322445",
+    "project_id": "todoapplication-e8f89",
+    "storage_bucket": "todoapplication-e8f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524823322445:android:81aa481db6b817ba7ca104",
+        "android_client_info": {
+          "package_name": "com.verdant.todoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524823322445-0etmodg6c59kbo5f25tuhjhcn9m6vk75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9Inl4mbTt-TRnEA26Hbd6RuwghmLViU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524823322445-0etmodg6c59kbo5f25tuhjhcn9m6vk75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
